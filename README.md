@@ -1,7 +1,6 @@
-# bioinformatics_basic algorithms 
-Includes: 
-Levenshtein algorithm 
+
 # Bioinformatics Basic Algorithms
+
 A collection of fundamental algorithms for computational biology and bioinformatics.
 
 ## Algorithms Included
