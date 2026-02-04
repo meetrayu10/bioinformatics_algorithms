@@ -1,5 +1,6 @@
-#Levenshtein algorithm: 
-
+# #Levenshtein distance 
+# #Levenshtein distance = minimum number of single‑character edits (insert, delete, substitute) 
+# # needed to turn one string into another 
 import numpy as np
 def levenshtein_distance(source, target, show_matrix=True):
     m, n = len(source), len(target)
