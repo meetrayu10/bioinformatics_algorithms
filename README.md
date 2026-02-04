@@ -1,2 +1,3 @@
-# bioinformatics_basics
-Introduction to python usage in bioinformatics 
+# bioinformatics_basic algorithms 
+Includes: 
+Levenshtein algorithm 
