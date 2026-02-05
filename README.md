@@ -16,3 +16,5 @@ Calculate edit distance between DNA/protein sequences from FASTA files.
 git clone https://github.com/meetrayu10/bioinformatics_algorithms.git
 cd bioinformatics_algorithms
 pip install -r requirements.txt 
+
+##Binary search algorithm
